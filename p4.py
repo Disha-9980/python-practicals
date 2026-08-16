@@ -1,0 +1,10 @@
+a = int(input("no. 1 : "))
+b = int(input("no. 2 : "))
+
+print ("Add : ", a + b)
+print ("Sub : ", a - b)
+print ("Mul : ", a * b)
+print ("Div : ", a / b)
+print ("F Div : ", a // b)
+print ("modulus : ", a % b)
+print ("Exp : ", a ** b)
